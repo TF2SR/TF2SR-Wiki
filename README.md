@@ -6,5 +6,4 @@ layout: landing
 
 # Welcome
 
-Welcome! This wiki is your one-stop shop for every strat, every resource and every bit of knowledge to help you learn how to speedrun Titanfall 2
-
+Welcome! This wiki is going to contain everything you need to know in order to start speedrunning Titanfall 2. Every route, every strat, every bit of movement tech and every bit of helpful knowledge will be here (at least that's the goal).
