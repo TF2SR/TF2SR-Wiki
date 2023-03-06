@@ -1,11 +1,11 @@
-# Getting Started
+# ▶ Getting Started
 
 ## Software
 
-In order to speedrun the game and get a verifiable run on the [leaderboards](https://www.speedrun.com/titanfall\_2), you're going to need 3 things:
+In order to speedrun the game and get an easily verifiable run on the [leaderboards](https://www.speedrun.com/titanfall\_2), you're going to need 3 things:
 
 * Titanfall 2
-* A Timer
+* A timer
 * An uninterrupted screen recording of the run
 
 {% hint style="info" %}
@@ -21,9 +21,36 @@ If you have the option of picking between getting the game on PC or Console, _I 
 
 **On PC,** the most commonly used speedrun timer is called [LiveSplit](http://livesplit.org/). It also has a web-based cross-platform version called [LiveSplit One](https://one.livesplit.org/). (Though I recommend going with LiveSplit since it has access to our Autosplitter that automatically removes load times for you)
 
-**On Console** however, you're going to have to time your runs manually by pausing the timer whenever you hit a load screen. You can do this directly through your phone's native timer app, but a better option is the [FramePerfect Speedrun Timer](https://play.google.com/store/apps/details?id=com.futuretrostudios.frameperfect) since it has more of the functionality you would want for timing your runs.\
+Here is a guide from bryonato on how to set up LiveSplit for Titanfall:
+
+{% embed url="https://www.youtube.com/watch?v=KpaaNm1-6LM" %}
+
+**On Console** however, you're going to have to time your runs manually by pausing the timer whenever you hit a load screen. You could do this directly through your phone's native timer app, but a better option is to use either the [FramePerfect Speedrun Timer](https://play.google.com/store/apps/details?id=com.futuretrostudios.frameperfect) or [LiveSplit One](https://one.livesplit.org/) since they have more of the functionality you would want for timing your runs like saving and keeping track of your splits.\
 If you have an extra laptop however, the best option is to use LiveSplit through that, as it lets you stream your runs with the timer on screen (We'll get into how to do that in a bit)
 
 ### How to record your runs
 
 **On PC,** you're going to need some form of screen recording software. Some popular options include [OBS Studio](https://obsproject.com/) and [Streamlabs Desktop](https://streamlabs.com/streamlabs-live-streaming-software).
+
+**On Console,** the easiest way to get your runs recorded is to directly stream them to either Twitch or YouTube and then save those VODs for submission.
+
+Generally speaking, streaming your runs is a good idea since if you set it up correctly, it eliminates the tedious work of uploading your >1h videos since you can just save them directly. I would still recommend having a local recording running as a backup in case you lose connection, if your system can handle it.
+
+Here is a guide from doakey that goes more in depth about how to set up everything if you're on console:
+
+{% embed url="https://www.youtube.com/watch?v=RIRPoeRS2BQ" %}
+
+### Input overlays
+
+Once your Personal Best approaches 1:30:00 (Both in Any% and All Helmets) you're going to need an **input overlay.** These aren't necessary until you actually reach this milestone, but since you never know when you might break this barrier, it's best to set up an input overlay earlier rather than later. Here are a few options:
+
+* [Nohboard](https://github.com/ThoNohT/NohBoard/releases)
+* [OBS Input overlay](https://obsproject.com/forum/resources/input-overlay.552/)
+* [Gamepadviewer](https://gamepadviewer.com/)
+
+{% hint style="info" %}
+If you're a console runner, you don't need an input overlay since there simply aren't any options that can read the inputs through the console.
+{% endhint %}
+
+This should cover the basics of what you need to get your runs on the board. Technically, you don't _need_ to go any further than this. However, there are a few extra things you can do that will make your time running the game a lot easier. In the next chapter, we'll talk about all of the tools that you can set up if you want that'll increase your Quality of Life and even get you some _free timesave._
+
