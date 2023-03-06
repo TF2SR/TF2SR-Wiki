@@ -1,7 +1,6 @@
 ---
 cover: .gitbook/assets/serverbanner_temp.png
 coverY: 760
-layout: landing
 ---
 
 # 👋 Welcome

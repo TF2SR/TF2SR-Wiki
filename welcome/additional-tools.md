@@ -6,7 +6,7 @@ Let's start with some free timesave. Many of the cutscenes in Titanfall 2 work i
 
 **On Steam,** you simply right click the game in your games list, hit _Properties_ and then select Traditional Chinese under the dropdown in the _Language_ tab.
 
-![](.gitbook/assets/s1.png)![](.gitbook/assets/grafik.png)
+![](../.gitbook/assets/s1.png)![](../.gitbook/assets/grafik.png)
 
 **The EA App** currently does not have a way of changing languages, so you'll have to swap out the files manually. Here's how to do it:
 
@@ -14,7 +14,7 @@ Let's start with some free timesave. Many of the cutscenes in Titanfall 2 work i
 2. Extract the files somewhere (Ideally keep a backup of the ENG files in case you want to switch back at some point)
 3.  Go to your Titanfall install directory under `r2/sound` and move out or delete all files that start with `general_<WhateverLanguageYouHadInstalled>` (do **not** touch the `general_stream` files)&#x20;
 
-    <figure><img src=".gitbook/assets/grafik (1).png" alt=""><figcaption><p>The highlighted files are the ones you want to replace</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/grafik (1).png" alt=""><figcaption><p>The highlighted files are the ones you want to replace</p></figcaption></figure>
 4. Move all files from the `CHI` directory in the zip you downloaded into the game's `r2/sound` folder
 
 **On Console,** you have to set your entire console's language to chinese in order for the game to adapt that language. Here is Doakey's Console setup tutorial (again) with a timestamp to the section on how to change languages on both Xbox and PS4:
