@@ -29,6 +29,7 @@ If you're on PC though, you can have the faster mandarin dialog while still keep
 
 PC runners have access to the [Speedrunning mod](https://github.com/zweek/TF2SR-Menu-Mod), which includes a bunch of practice tools, Quality-of-Life options and fixes to make your time running the game a bit easier. You can find the most recent download on the [releases tab](https://github.com/zweek/TF2SR-Menu-Mod/releases).
 
-The file you'll most likely want to download is `SRMM-<versionNumber>-main.zip`. If you happen to speak mandarin and want the tools the mod provides _without_ switching out the chinese text for english text, you can also download the `SRMM-<versionNumber>-this-version-is-for-chinese-runners-who-want-to-keep-their-game-text-in-chinese-instead-of-swapping-it-out-for-english-text.zip`. Yes, that is the actual name.
+The file you'll most likely want to download is `SRMM-<versionNumber>-main.zip`.\
+If you happen to speak mandarin and want the tools the mod provides _without_ switching out the chinese text for english text, you can download the `SRMM-<versionNumber>-this-version-is-for-chinese-runners-who-want-to-keep-their-game-text-in-chinese-instead-of-swapping-it-out-for-english-text.zip`. Yes, that is the actual name.
 
-Installing SRMM is as simple as dragging and dropping everything from the downloaded zip into your main Titanfall install directory. You'll know you did it correctly when you're greeted by an orange `SRMM <someVersionNumber>` below the game title on the main menu screen.
+Installing SRMM is as simple as dragging and dropping everything from the downloaded zip into your main Titanfall2 install directory. You'll know you did it correctly when you're greeted by an orange `SRMM <someVersionNumber>` below the game title on the main menu screen.
