@@ -1,41 +1,15 @@
-# Website
+# TF2SR Wiki
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This is the source for the modular wiki project for Titanfall 2 Speedrunning
+The actual wiki can be found on (there will be a URL here later i think in my opinion)
 
-### Installation
+## Want to contribute?
 
-```
-$ yarn
-```
+This wiki runs on [Docusaurus](https://docusaurus.io/), which requires [NodeJS](https://nodejs.org/en) to work.
 
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+1. Clone the repository
+2. Install Node (ideally v18.16 but v16 or above should work too i think)
+3. Install all the necessary packages by running `npm install --legacy-peer-deps` in your local repo
+4. Then run `npm run docusaurus start` to run the site locally (it automatically updates whenever you save your changes)
+5. Make your epic and awesome and swag changes or additions
+6. Make an epic and awesome and swag pull request
