@@ -10,37 +10,33 @@ const config = {
   tagline: 'A really good™ resource',
   favicon: 'img/tf2sr-icon.png',
 
-  // Set the production url of your site here
+  // Production URL
   url: 'https://tf2sr.github.io',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/TF2SR-Wiki',
 
   // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'TF2SR', // Usually your GitHub org/user name.
-  projectName: 'TF2SR-Wiki', // Usually your repo name.
+  organizationName: 'TF2SR',
+  projectName: 'TF2SR-Wiki',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
   },
 
+  customFields: {
+    discordUrl: 'https://discordapp.com/invite/P3JKjfx4uZ',
+    githubUrl: 'https://github.com/TF2SR/TF2SR-Wiki',
+  },
+
   presets: [
     [
       'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/TF2SR/TF2SR-Wiki/blob/main/',
         },
@@ -52,10 +48,13 @@ const config = {
   ],
 
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      colorMode: {
+        defaultMode: 'dark',
+        respectPrefersColorScheme: true,
+      },
       navbar: {
         title: 'TF2SR Wiki',
         logo: {
@@ -67,9 +66,6 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Tutorial',
-          },
-          {
-            type: 'search',
           },
         ],
       },
