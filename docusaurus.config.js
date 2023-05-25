@@ -67,6 +67,12 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'knowledgebaseSidebar',
+            position: 'left',
+            label: 'Knowledge Base'
+          }
         ],
       },
       footer: {
