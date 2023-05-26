@@ -1,6 +1,6 @@
 # TF2SR Wiki
 
-This is the source for the modular wiki project for Titanfall 2 Speedrunning
+This is the source for the modular wiki project for Titanfall 2 Speedrunning.
 The actual wiki can be found on (there will be a URL here later i think in my opinion)
 
 ## Want to contribute?
