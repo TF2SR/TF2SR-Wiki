@@ -17,6 +17,7 @@ const config = {
   // GitHub pages deployment config.
   organizationName: 'TF2SR',
   projectName: 'TF2SR-Wiki',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -87,7 +88,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/category/welcome',
               },
             ],
           },
