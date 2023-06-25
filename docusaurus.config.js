@@ -39,6 +39,10 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
             'https://github.com/TF2SR/TF2SR-Wiki/blob/main/',
+
+          admonitions: {
+            keywords: ['note', 'tip', 'info', 'caution', 'danger', 'diffe', 'diffm', 'diffh'],
+          },
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -65,7 +69,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Tutorials',
           },
           {
             type: 'docSidebar',
