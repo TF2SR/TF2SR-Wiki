@@ -15,4 +15,6 @@ This wiki runs on [Docusaurus](https://docusaurus.io/), which requires [NodeJS](
 5. Make your epic and awesome and swag changes or additions
 6. Make an epic and awesome and swag pull request
 
+More detailed contribution guides can be found [in the knowledge base](https://tf2sr.github.io/TF2SR-Wiki/docs/knowledge-base/contribute/intro) of the wiki itself
+
 The docs themselves are written in [Markdown](https://www.markdownguide.org/cheat-sheet/) and all documentation text can be found in the `docs` directory
