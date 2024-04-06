@@ -6,7 +6,7 @@ There's no one optimal setup for keybinds since what's comfortable differs from 
 
 **Grenade / Ordinance:** Holding Q while switching strafe directions or pressing forward is usually very uncomfortable to hold. Common options for grenade binds are mouse side buttons, middle mouse button, a key reachable on your left thumb like space. This is an important bind to be comfortable with, since movement while holding grenades is important for many strats throughout the run.
 
-**Use hold crouch instead of toggle:** Without crouch hold, basic slide hopping requires re-toggling crouch after every hop since the jump uncrouches you automatically. Technically doable, but much more tedious over thousands of slide hops throughout the game.
+**Use hold crouch instead of toggle:** Without hold crouch, basic slide hopping requires re-toggling crouch after every hop since the jump uncrouches you automatically. Technically doable, but much more tedious over thousands of slide hops throughout the game.
 
 TODO: Viddy demonstrating toggle crouch slide hopping behaviour
 
