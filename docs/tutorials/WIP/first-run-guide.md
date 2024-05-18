@@ -11,6 +11,23 @@ Most enemies don't need to be killed. Ignoring them can save a lot of time.
 
 :::
 
+## Beginner Movement
+
+:::diffe
+
+### Sliding
+
+Maybe insert youtube clip from ultimate movement guide???
+
+:::
+
+:::diffe
+
+### Slidehopping
+Maybe insert youtube clip from ultimate movement guide???
+
+:::
+
 ## Beginner strats
 
 I would recommend learning these strats in the order they're presented. However, if you struggle with a certain strat, you can always go to the next strat and come back later. 
@@ -49,6 +66,10 @@ While it is extremely easy, this skip is still very important to make sure you f
 :::diffe
 
 ### Andyshot
+
+<YouTube youTubeId="I3Nh7qv3eOI"/>
+
+With a time save of ~33 seconds and an easy execution this strat is great for beginners. It's one of the first strats every new runner should learn. -mats
 
 :::
 
