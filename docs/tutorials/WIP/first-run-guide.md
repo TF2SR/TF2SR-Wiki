@@ -89,4 +89,6 @@ With a time save of ~33 seconds and an easy execution this strat is great for be
 
 ### Toldspice route
 
+<YouTube youTubeId="0QFwhNnM7yo"/>
+
 :::
