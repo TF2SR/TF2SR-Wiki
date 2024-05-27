@@ -58,6 +58,12 @@ While it is extremely easy, this skip is still very important to make sure you f
 
 :::diffe
 
+### Snugglecore (Titan runup)
+
+:::
+
+:::diffe
+
 ### Door skip 
 #### Hover version
 
