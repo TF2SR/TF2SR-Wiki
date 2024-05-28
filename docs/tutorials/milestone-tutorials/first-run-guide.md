@@ -1,6 +1,6 @@
 import {YouTube} from 'mdx-embed';
 
-# First run guide [needs renaming imo] [WIP]
+# Sub120 Guide [???]
 
 If you don't know what to learn first, you can start with the strats on this page. They're geared towards beginners and break up some of the longest sequences in Titanfall 2.
 You definitely don't need to learn all of them before starting to speedrun, but they make everything a lot easier. 
