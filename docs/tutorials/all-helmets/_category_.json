@@ -1,0 +1,9 @@
+{
+  "label": "All Helmets",
+  "position": 3,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Tutorials covering every strat in the All Helmets route. It is recommended to learn the Any% route first, as All Helemts is heavily based upon said route."
+  }
+}

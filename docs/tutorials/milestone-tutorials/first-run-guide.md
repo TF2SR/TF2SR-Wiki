@@ -15,14 +15,6 @@ Most enemies don't need to be killed. Ignoring them can save a lot of time.
 
 :::diffe
 
-### Sliding
-
-Maybe insert youtube clip from ultimate movement guide???
-
-:::
-
-:::diffe
-
 ### Slidehopping
 Maybe insert youtube clip from ultimate movement guide???
 
@@ -60,15 +52,18 @@ While it is extremely easy, this skip is still very important to make sure you f
 
 ### Snugglecore (Titan runup)
 
+<YouTube youTubeId="L2kx0yvTu6Q"/>
+
 :::
 
 :::diffe
 
-### Door skip 
-#### Hover version
+### Hover Door Skip
+
+<YouTube youTubeId="YjQ-OjKD6U8"/>
 
 :::
-
+<YouTube youTubeId=""/>
 :::diffe
 
 ### Andyshot
