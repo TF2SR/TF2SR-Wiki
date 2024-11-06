@@ -9,7 +9,9 @@
   position: relative;
   overflow: hidden;
   background-image: url(https://i.imgur.com/PawJAbS.jpeg);
-  background-position-y: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 @media screen and (max-width: 996px) {
