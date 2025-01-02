@@ -63,7 +63,8 @@ While it is extremely easy, this skip is still very important to make sure you f
 <YouTube youTubeId="YjQ-OjKD6U8"/>
 
 :::
-<YouTube youTubeId=""/>
+
+
 :::diffe
 
 ### Andyshot
