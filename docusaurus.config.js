@@ -55,7 +55,7 @@ const config = {
   themeConfig:
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/tf2sr-social-card.png',
       colorMode: {
         defaultMode: 'dark',
         respectPrefersColorScheme: true,
