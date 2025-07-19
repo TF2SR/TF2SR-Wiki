@@ -1,4 +1,3 @@
-
 # TODO:
 
 Skellys little list of ideas, feel free to add more
@@ -22,7 +21,7 @@ Mats' list:
 
 * [ ] Transfer this list to issues on github(?)
 * [ ] put ultimate movement guide into the wiki (in chunks?) / general movement pages
-* [ ] adopt the [glossary](https://docs.google.com/document/d/1dk5ScogQeL3QTuu-SaG-4zdsouwy1Z2fUYeS0A4niOI/edit) into the wiki
+* [X] adopt the [glossary](https://docs.google.com/document/d/1dk5ScogQeL3QTuu-SaG-4zdsouwy1Z2fUYeS0A4niOI/edit) into the wiki
 * [ ] All helmets tutorials
 * [ ] Level introduction/overview videos
 * [ ] wiki introduction video
