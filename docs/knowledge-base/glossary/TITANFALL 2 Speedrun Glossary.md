@@ -1,10 +1,10 @@
 # TITANFALL 2 Speedrun glossary
 
-## INTRODUCTION:
+## INTRODUCTION
 
 Welcome to the Titanfall 2 Speedrun glossary\! This is a list of every movement trick in the game, as well as a list of common level-specific terms you’ll hear runners use a lot. If you have a question about a trick you don’t see listed, let us know in #wiki in the Titanfall 2 Speedrunning Discord. Cheers\!
 
-## MOVEMENT TRICKS:
+## MOVEMENT TRICKS
 
 ### JUMP AND AERIAL MECHANICS
 
@@ -23,7 +23,7 @@ Similar to tap strafing, but relies on rapidly tapping left or right inputs rath
 **Spam strafe** \-
 A sort of combination of fzzy/tap strafing; is performed by spamming directional inputs in rapid succession to achieve a similar, but usually sharper, movement to fzzy & tap strafing. Only possible on PC.
 
-**Alternating tap strafing (alt-tapping):**
+**Alternating tap strafing (alt-tapping)** \-
 A kind of hybrid form of lurched strafing that alternates forward and lateral inputs while specifically allowing them to overlap to achieve lurch at a more rapid frequency than traditional tap strafing.
 
 **No-lurch (prefix, NL)** \-
@@ -78,7 +78,7 @@ An instant slideboost achieved by pressing sprint, crouch, and jump while leavin
 **Wall jump** \-
 A simple jump performed during a wallrun.
 
-**No-lurch Wall Jump (NLWJ):** \-
+**No-lurch Wall Jump (NLWJ)** \-
 A technique that allows you to jump from walls without suffering strafe lurch. Performed by holding a lateral direction as well as forward when you jump from a wall, then releasing forward and strafing in the held direction. Used for certain setups for long distance jumps like Kill Room or Heatsink skip.
 
 **Wall bump** \-
@@ -103,9 +103,11 @@ An instant jump upon contact with a wall that can provide a massive speed boost.
 
 - **Crouch kick**: Effectively a wall kick-end boost. Performed by pressing crouch and jump at the same time immediately upon contact with a wall for a potent speed boost.
 
-**Edge boost** \- Performed by jumping at the "edge" or corner of a wall during the last few ticks in which you have contact to achieve a boost.
+**Edge boost** \-
+Performed by jumping at the "edge" or corner of a wall during the last few ticks in which you have contact to achieve a boost.
 
-- **Crouched edge boost (cEB):** Effectively an end boost-edge boost. Achieved by pressing crouch and jump at the same time when jumping at the “edge” of a corner or wall.
+- **Crouched edge boost (cEB)** \-
+  Effectively an end boost-edge boost. Achieved by pressing crouch and jump at the same time when jumping at the “edge” of a corner or wall.
 
 **End boost** \-
 Performed by jumping at the very end of the wallrun animation. There is a set amount of time in which you can cling to the wall during a wallrun. If you jump at the very end of that animation, you receive the same speed boost as an edge boost.
@@ -138,8 +140,8 @@ Performed by pressing jump toward the end of the Titan disembark animation (arou
 
 - **No-lurch disembark jump:** A disembark jump without incurring strafe lurch. Performed by holding forward, left, and right, then letting go of forward and a lateral direction and strafing.
 
-**Disembark boost** \-
-Performed by pressing crouch and holding forward as you disembark. When done correctly you'll receive a considerable horizontal speed boost that can be easily transitioned into a slidehop. You cannot disembark boost while using a Titan dash, you must be sprinting.
+- **Disembark boost:**
+  Performed by pressing crouch and holding forward as you disembark. When done correctly you'll receive a considerable horizontal speed boost that can be easily transitioned into a slidehop. You cannot disembark boost while using a Titan dash, you must be sprinting.
 
 - **No-lurch disembark boost:** A disembark boost without incurring strafe lurch. Performed by holding forward and a strafe key, then immediately beginning the strafe and releasing the forward input after a boost.
 
@@ -161,9 +163,12 @@ Performed by holding forward and either left/right during Northstar or Brute’s
 **Flame trap duping (trap duping)** \-
 Using scorch; Refers to a tech used to ignite flame traps multiple times over using very specific methods such as looking straight up in the air and activating flame wall while standing over a flame trap.
 
+**Infinite Flight Core (Encore)** \-
+An exploit performed by switching from brute to scorch, and immediately using the core ability. This places the flight core as your main weapon, granting access to infinite flight core rockets.
+
 ### DAMAGE AND EXPLOSION BOOSTS
 
-**Damage boot** \-
+**Damage boost** \-
 Generally refer to any sort of speed boost as a result of taking damage from a variety of different sources.
 
 - **\[pilot, melee\]**: Getting hit by a melee/other physical attack from a Prowler or any IMC unit (grunt, spectre, stalker, reaper), can result in a large speed boost in the direction in which the enemy is facing you.
@@ -186,11 +191,11 @@ Generally refer to any sort of speed boost as a result of taking damage from a v
 
 **Satchel boost** \- Refers to attaching a satchel charge to a surface and then triggering the explosion right as you jump outside of the kill radius.
 
-## **COMMON LEVEL-SPECIFIC TERMS AND TRICKS:**
+## **COMMON LEVEL-SPECIFIC TERMS AND TRICKS**
 
 _Most all of the following terms, names, and tricks can be found with video in the doc._
 
-### **THE PILOTS GAUNTLET:**
+### **THE PILOTS GAUNTLET**
 
 **Wallrun Skip** \- Performed by gaining a large amount of speed via strafing at the beginning of the gauntlet, then clearing the gap where Lastimosa tells you to wallrun.
 
@@ -198,7 +203,7 @@ _Most all of the following terms, names, and tricks can be found with video in t
 
 **Broken Gauntet** \- Refers to moving through the Gauntlet strating gate too quickly, resulting in the Gauntlet itself not starting. Some runners attempt to reach the platform where FS-1041 is called down without being teleported by Lasitmosa when this happens.
 
-### **BT-7274:**
+### **BT-7274**
 
 **18hr Cutscene** \- Infamous cutscene named for its dialogue that occurs at the beginning of BT-7274 and introduces the Apex Predators.
 
@@ -226,13 +231,19 @@ _Most all of the following terms, names, and tricks can be found with video in t
 
 **DMR Strat** \- Refers to a difficult 3rd battery clear strat using the rock arch and a DMR.
 
-### **BLOOD AND RUST (BNR):**
+**Titan Tutorial** \- The segment which follows after you embark bt where you have to kill grunts and drones using bts abilities.
+
+**No U** \- A quick setup to kill the Brute at the end of the level by using their own bullets against them.
+
+### **BLOOD AND RUST (BNR)**
 
 **Nessie Vault** \- A complex easter egg on Blood and Rust that requires finding three sake bottles and jumping into a sludge pool.
 
 **Tone slide** \- A skate over the top of a Tone that drops in during the beginning segment of the level.
 
 **Early Disembark** \- Refers to the strat used in ILs and in high level full-game runs where you disembark shortly after grabbing Tone and make your way to the airlock on foot.
+
+**Instant Disembark (Vizembark, Decepembark etc.)** \- A high level strat where you disembark immediately after loading into the level and utilize fragboosts and wall kicks to gain incredible speed.
 
 **Barry, the Bridge Guardian** \- Nickname for the grunt that stands on the bridge before the long sludge slide.
 
@@ -254,15 +265,23 @@ _Most all of the following terms, names, and tricks can be found with video in t
 
 **Sludge skip** \- A tricky skip that skips the entire sludge fight before you fight Kane.
 
-### **INTO THE ABYSS (ABYSS, ITA):**
+**Pilot Transition** \- A route where you disembark from bt after performing sludge skip and use pilot movement to navigate to the Kane fight.
+
+### **INTO THE ABYSS (ABYSS, ITA)**
 
 #### _Chapter 1_
 
 **Wall Boost** \-
 A large speed boost from one of the assembly line walls before door clear.
 
+**Vibecheck** \-
+A variant of wall boost where you don't disembark from bt.
+
 **Door clear** \-
 The brief fight toward the end of the chapter in which you must kill three Titans to open a door.
+
+**Titanless** \-
+A very difficult route where you never embark in bt and instead utilize pilot movement to clip out of bounds in order to get to the end of the level.
 
 #### _Chapter 2_
 
@@ -286,16 +305,28 @@ Refers to the bounty placed on finding a skip that skips the entirety of Abyss 2
 **Cylinder skip** \-
 A strat in which you activate the containment towers ("cylinders") and hop inside the tower before it rotates.
 
+**Cylinder skip skip** \-
+A strat where you climb up the wall in the cylinder skip room and kick of the cylinders in order to skip the cylinder skip.
+
 **Decep Caverns** \-
 Refers to a difficult cycle-based strat through the caverns following Cylinder Skip that was innovated by sDeception.
 
-**Ash skip** \-
+**Hover Ash skip** \-
 An out of bounds skip that skips the Ash fight via disembark clipping.
 
 **Hoverless** \-
 After disembark clipping out of bounds for Ash skip, Hoverless is performed by running at the large set of pipes on the right at an angle and climbing to the top of them without using hover.
 
-### **EFFECT AND CAUSE (ENC):**
+**E-smoke Ash Skip** \-
+A skip which exploits bt:s reaction to an e-smoke in order to clip through the door in the Ash fight.
+
+**DAsh Skip** \-
+A skip which uses precise movements and dashes in order to clip through the door in the Ash fight.
+
+**Pilot Ash Trigger Skip (PATS)** \-
+A difficult skip which uses high speeds and damage boosts to get into the Ash arena without triggering the fight. This leaves the door to the end level trigger open. Can be performed both with and without moonboots depending on whether or not Brute is available.
+
+### **EFFECT AND CAUSE (ENC)**
 
 #### _Chapter 1_
 
@@ -307,6 +338,9 @@ Refers to a trick where we climb up on the side of the research facility and mak
 
 **Faster than Light** \-
 A difficult strat that uses a laser-grid damage boost to launch you through Skybridge without getting caught in the timeswaps.
+
+**Faster than Time** \-
+A strat which uses an assortment of strafes, kicks and damage boosts in order to build enough sped to avoid getting caught in the timeswaps on Skybridge without using the laser-grid.
 
 **Skybridge** \-
 A frustrating section at the end of EnC1 with heavy softlock potential.
@@ -321,6 +355,9 @@ The climb up the elevator shaft following the first few hallways.
 
 **Anderson 1/2** \-
 Refers to either the first or second “Anderson Rooms” that break up the level where Anderson’s hologram logs play out.
+
+**Blender** \-
+An elaborate setup for building up pre speed when exiting Anderson 2.
 
 **Cryostorage** \-
 The section right before Hell Room with a number of tight jumps and corners.
@@ -345,7 +382,7 @@ Refers to a strat in which you boost yourself off of the laser grid after activa
 **Ship Skip** \-
 A very difficult skip during the frozen time segment at the end of ENC3 which skips clamoring through the ship after the zipline by wall kicking off a piece of floating debris.
 
-### **THE BEACON (b):**
+### **THE BEACON (b)**
 
 #### _Chapter 1_
 
@@ -387,6 +424,9 @@ A difficult, air strafe-heavy skip that skips traversing one of the Heatsink roo
 **Grate mantle** \-
 An infamous 1 frame trick following Heatsink skip where you can actually mantle the grate that opens before the wind tunnel.
 
+**Dark Slide** \-
+A strat which uses precise movement to gain incredible speed during the windtunnel. Currently the highest velocity strat in the game.
+
 **Corner cut** \-
 Refers to a strat that uses fzzy or tap strafing to skip a small portion of the wind tunnel.
 
@@ -406,6 +446,8 @@ By mashing jump at a certain cadence you can "slide" up the staircase toward the
 
 - **Super fastball deluxe:** A route variation of Super Fastball that picks up gravity starts in the middle of the route, rather than at the end, and allows you to get to the dish module much earlier.
 
+- **Hyper Fastball (HFB):** A variation of Super Fastball Deluxe that goes to the left side of the building at the end instead of the right. This allows you to keep speed all the way to the dish module.
+
 **Super curveball (SCB)** \- The more difficult, All Helmets variant of Super Fastball.
 
 **Terminal skip** \- A gravity star boost you perform immediately after picking up gravity stars near the dish containing the module. Skips using the terminal to move the dish.
@@ -416,21 +458,42 @@ By mashing jump at a certain cadence you can "slide" up the staircase toward the
 
 - **PZip:** “Poverty zipless.” Nickname for the slower, safer zipless setup.
 
+**Tesco Meal Deal** \-
+An RTO strat where you use the speed from Hyper Zipless to get to the Dish Fight platform before going back to the Milk Aisle. This removes a hidden timer which allows you to finish the Dish Fight earlier.
+
+**Cooperang** \-
+A difficult version of Tesco Meal Deal which uses a kick high up on the dish to return to the Milk Aisle.
+
+**The Milk Aisle** \-
+The circular building connected to the Dish Fight with a zipline.
+
 **Dish fight** \- Refers to the fight following returning to BT with the module.
 
 **Dish skip** \- An early climb to the top of the dish that skips BT throwing you.
 
 **Elmo clip** \- A strat that clips BT both into and out of the Beacon hub room that instantly teleports him to the top of the elevator.
 
-### **TRIAL BY FIRE (TBF):**
+### **TRIAL BY FIRE (TBF)**
 
 **Sword block strat** \-
 Refers to the strat at the beginning of Trial by Fire in which you use Ronin’s Sword Block ability to block the gun turret damage and walk through the walls.
 
+**Robcore** \-
+A strat where you disembark out of bt during Sword Block Strat in order to build up your core meter. Also allows you to pick up some frags.
+
+**Triggerless** \-
+A route which avoids a trigger that spawns enemy titans.
+
 **Elevator Hover** \-
 Refers to using Brute’s Hover ability to skip waiting for the elevator to rise all the way to the top after escorting Sarah.
 
-### **THE ARK:**
+**Lone Wolf** \-
+A titanless strat which goes from the elevator to the end of the level. Infamous for being dangerous due to the high number of enemy titans throughout the route.
+
+**Lupine Leap**\-
+A difficult RTO strat which hits the end level trigger early by jumping across the gap after the elevator.
+
+### **THE ARK**
 
 **Barker skip** \-
 A very difficult skip at the beginning of the Ark in which we use a frag boost to jump from Barker's ship to the 6-4.
@@ -447,13 +510,29 @@ A trick performed after clearing the 3rd gun battery in which you jump on top of
 **Room clear** \-
 Refers to killing several sets of enemies after reaching the hangar as fast as possible.
 
+**Ship Steer**\-
+Refers to the section where you pilot the ship before embarking onto bt. This entire section is notorious for being the home to a number of run killing bugs, most notably that the game can crash. The reason for this crash is still unknown and various methods have been tested in order to avoid it. The list includes but is not limited to:
+
+- Waiting half a second or so before interacting with/walking near the control panel
+- Having your last input steer the ship upwards
+- Running up and down the stairs during the cutscene
+- Setting the difficulty to master (just [remember to switch back](https://youtu.be/LOMo4FBbm7g?si=ndrB2F2Eb8XW85QZ&t=85))
+- Jumping before and after the steer
+- Jumping before and after the steer in real life
+- Only playing the game during a full moon
+
+So far no method has proven 100% effective.
+
 **Ghost ship** \-
 A very rare and strange bug where Barker's ship flies through the control room after Barker drops BT off.
 
 **Viper Zerg** \-
 Refers to the Viper fight strat in which you kill Viper first and use core on the remaining two Titans.
 
-### **THE FOLD WEAPON (FW):**
+**Snake Splitter** \-
+A Viper fight strat in which you abuse a bug with Ions splitter rifle in order to deal absurd amounts of damage.
+
+### **THE FOLD WEAPON (FW)**
 
 **Flotsa Strat** \-
 A strat in which after regaining control of Cooper you walk directly back into the fire and almost die, then walk out. Saves having to wait for BT to talk to you.
@@ -467,8 +546,14 @@ Refers to a wall kick heavy segment in the middle of the Datacore segment.
 **Door skip** \-
 Skips having to wait for enemies to open the door before the final run to Slone fight by disembarking from BT and clipping through the top of the door.
 
+**Rocky Road**\-
+A titanless strat where you move along the rocks at the outskirts of the playable area. Infamous for difficult geometry.
+
 **Triple core Slone** \-
 Refers to a very difficult Slone fight strat that uses 3 cores to complete the fight quickly and setup for Andyshot and Fold Weapon Precharge.
+
+**Fzzy Slone** \-
+Refers to a Slone fight strat that manipulates Slone’s animations in order to cause the Reapers in Phase 2 to drop a few seconds sooner.
 
 **AndyShot** \-
 A cutscene skip performed by using Sword Core immediately before pulling the Ark Injector. Allows you to have your gun out when Blisk walks over your Titan. Shooting Blisk kills him and instantly skips his dialogue.
@@ -476,13 +561,16 @@ A cutscene skip performed by using Sword Core immediately before pulling the Ark
 **Fold Weapon Precharge (Precharge)** \-
 Refers to completing Slone fight fast enough before the “97%” dialogue in the Fold Weapon room, which causes the Fold Weapon to remain charged after BT climbs in and skips the charging sequence.
 
-**Fzzy Slone** \-
-Refers to a Slone fight strat that manipulates Slone’s animations in order to cause the Reapers in Phase 2 to drop a few seconds sooner.
-
 **Zweekscape** \-
 Refers to a route for the “escape” sequence routed by Zweek that takes advantage of the various moving rocks and platforms.
 
-## **MISCELLANEOUS OTHER TERMS:**
+**Hyper Zweekscape** \-
+A variation of Zweekscape which uses a slant boost to gain high speeds.
+
+## **MISCELLANEOUS OTHER TERMS**
+
+**Reverse Trigger Order** \-
+A descriptive name for strats in which you hit triggers in an order not intended by the developers. This can allow for faster routes or messing with the games logic in beneficial ways.
 
 **Quickswap** \-
 Performed by crouching in the middle of a weapon swap animation to swap between weapons faster.
