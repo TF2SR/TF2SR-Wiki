@@ -1,4 +1,4 @@
-# TITANFALL 2 Speedrun glossary
+# Titanfall 2 Speedrun Glossary
 
 ## INTRODUCTION
 
@@ -291,6 +291,11 @@ Performed once you reach the beginning of the assembly line by jumping off the p
 **Toldspice route** \-
 A safe route through ItA2 that requires you to traverse a rock wall around the far right side of the map.
 
+**Randall** \-
+The first platform that reaches the end of the mission "Into The Abyss, Chapter 2" in the video game "Titanfall 2" by "Respawn Entertainment": "Randall from the video game "Super Smash Bros. Melee" on the Nintendo Gamecube™️" \-
+[Source](https://i.imgur.com/n3zt7Dl.png)
+
+
 **Dome Launch** \-
 A massive momentum boost from one of the assembly line arms that takes you from the bottom of the assembly line to the dome trigger.
 
@@ -382,7 +387,7 @@ Refers to a strat in which you boost yourself off of the laser grid after activa
 **Ship Skip** \-
 A very difficult skip during the frozen time segment at the end of ENC3 which skips clamoring through the ship after the zipline by wall kicking off a piece of floating debris.
 
-### **THE BEACON (b)**
+### **THE BEACON (B)**
 
 #### _Chapter 1_
 
