@@ -295,7 +295,6 @@ A safe route through ItA2 that requires you to traverse a rock wall around the f
 The first platform that reaches the end of the mission "Into The Abyss, Chapter 2" in the video game "Titanfall 2" by "Respawn Entertainment": "Randall from the video game "Super Smash Bros. Melee" on the Nintendo Gamecube™️" \-
 [Source](https://i.imgur.com/n3zt7Dl.png)
 
-
 **Dome Launch** \-
 A massive momentum boost from one of the assembly line arms that takes you from the bottom of the assembly line to the dome trigger.
 
@@ -561,7 +560,7 @@ Refers to a very difficult Slone fight strat that uses 3 cores to complete the f
 Refers to a Slone fight strat that manipulates Slone’s animations in order to cause the Reapers in Phase 2 to drop a few seconds sooner.
 
 **AndyShot** \-
-A cutscene skip performed by using Sword Core immediately before pulling the Ark Injector. Allows you to have your gun out when Blisk walks over your Titan. Shooting Blisk kills him and instantly skips his dialogue.
+A cutscene skip performed by using Sword Core immediately before pulling the Ark Injector. Allows you to have your gun out when Blisk walks over your Titan. Shooting Blisk kills him and instantly skips his dialogue. Named after [Reddit user u/shotandy, who discovered the skip](https://www.reddit.com/r/titanfall/comments/aoq3c1/how_to_kill_blisk_in_tf2/).
 
 **Fold Weapon Precharge (Precharge)** \-
 Refers to completing Slone fight fast enough before the “97%” dialogue in the Fold Weapon room, which causes the Fold Weapon to remain charged after BT climbs in and skips the charging sequence.
