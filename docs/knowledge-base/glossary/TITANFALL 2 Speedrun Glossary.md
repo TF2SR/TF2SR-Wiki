@@ -283,6 +283,9 @@ The brief fight toward the end of the chapter in which you must kill three Titan
 **Titanless** \-
 A very difficult route where you never embark in bt and instead utilize pilot movement to clip out of bounds in order to get to the end of the level.
 
+**Power Clip** \-
+An Out of Bounds clip where the moving platforms are used to get pushed through the ceiling. Named after runner [22POWER22 who discovered it.](https://discord.com/channels/241597846896377856/1463751820944867507)
+
 #### _Chapter 2_
 
 **Platform launch/Swaginoz** \-
