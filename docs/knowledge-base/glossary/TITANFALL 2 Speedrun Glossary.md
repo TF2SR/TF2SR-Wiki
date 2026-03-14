@@ -26,6 +26,12 @@ A sort of combination of fzzy/tap strafing; is performed by spamming directional
 **Alternating tap strafing (alt-tapping)** \-
 A kind of hybrid form of lurched strafing that alternates forward and lateral inputs while specifically allowing them to overlap to achieve lurch at a more rapid frequency than traditional tap strafing.
 
+**Mouse Strafing** \-
+A collective name for techniques where movement input keys are bound to the mouse, and fast clicking is used to abuse lurch. This includes, but is not limited to, butterfly, drag, and jitter clicking in order to incur lurch.
+
+**Drag Strafing** \-
+A type of mouse strafing where the runner drags their finger across the mouse, using the friction to rapidly "click" the mouse (i.e drag clicking). This can be used to incur lurch at levels that are generally not considered humanly possible. This technique is banned from leaderboard runs.
+
 **No-lurch (prefix, NL)** \-
 aka “**Lurchless.**” General term used to describe tech for keyboard players that removes incurring strafe lurch after a jump for a plethora of different purposes. Controller moves without lurch by default.
 
